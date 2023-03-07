@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estagiando na área de desenvolvimento full-stack, tendo como prioridade e foco do estágio, o front-end.
 - 🌱 Cursando Sistemas de Informação EAD e paralelo à faculdade, fazendo cursos extracurriculares voltados exclusivamente para a linguagem Java.
-- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/kauanrod">
