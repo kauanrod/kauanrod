@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/kauanrod">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=kauanrod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br>
