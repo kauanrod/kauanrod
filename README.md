@@ -1,7 +1,16 @@
-### Olá! Meu nome é Kauan Rodrigues, prazer! ^^ 🤝🤙
+### Olá! Seja bem-vindo(a) ao meu perfil, é um prazer ter você aqui! 🤝🤙
 
-- 🔭 Atualmente estagiando na área de desenvolvimento full-stack, tendo como prioridade e foco do estágio, o front-end.
-- 🌱 Cursando Sistemas de Informação EAD e paralelo à faculdade, fazendo cursos extracurriculares voltados exclusivamente para a linguagem Java.
+🤓 Olá, meu nome é Kauan Rodrigues, sou estudante de Sistemas de Informação EAD com grande interesse em tecnologia e programação. Estou sempre em busca de novas oportunidades para aprender e desenvolver minhas habilidades.
+
+Atualmente, estou me dedicando exclusivamente ao estudo de Java por meio de cursos extracurriculares na Alura. Minha disciplina e habilidades de gerenciamento de tempo me permitem manter o foco em meus objetivos e metas.
+
+Tenho experiência na área de desenvolvimento de sites e estou interessado em seguir uma carreira na área de back-end e engenharia de software. Meu desejo é desenvolver soluções criativas e inovadoras que possam ajudar as empresas a atingir seus objetivos de negócios.
+
+Estou sempre em busca de novos desafios e projetos que possam me ajudar a expandir meus conhecimentos e habilidades em programação. Se você está procurando por um desenvolvedor com paixão por tecnologia e programação, não hesite em entrar em contato comigo.
+
+Meu perfil do GitHub apresenta meus projetos pessoais e trabalhos acadêmicos. Fique à vontade para navegar e deixar suas impressões. Vamos nos conectar e colaborar em projetos incríveis!
+
+##
 
 <div align="center">
   <a href="https://github.com/kauanrod">
