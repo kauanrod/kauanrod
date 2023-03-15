@@ -2,9 +2,9 @@
 
 🤓 Olá, meu nome é Kauan Rodrigues, sou estudante de Sistemas de Informação EAD com grande interesse em tecnologia e programação. Estou sempre em busca de novas oportunidades para aprender e desenvolver minhas habilidades.
 
-Atualmente, estou me dedicando exclusivamente ao estudo de Java por meio de cursos extracurriculares na Alura. Minha disciplina e habilidades de gerenciamento de tempo me permitem manter o foco em meus objetivos e metas.
+Atualmente, estou me dedicando exclusivamente ao estudo de Engenharia de Dados por meio de cursos extracurriculares na Alura e na Stack Academy. Minha disciplina e habilidades de gerenciamento de tempo me permitem manter o foco em meus objetivos e metas.
 
-Tenho experiência na área de desenvolvimento de sites e estou interessado em seguir uma carreira na área de back-end e engenharia de software. Meu desejo é desenvolver soluções criativas e inovadoras que possam ajudar as empresas a atingir seus objetivos de negócios.
+Tenho experiência na área de desenvolvimento de sites e estou interessado em seguir uma carreira na área de dados, especificamente engenharia de dados. Meu desejo é desenvolver soluções criativas e inovadoras que possam ajudar as empresas a atingir seus objetivos de negócios.
 
 Estou sempre em busca de novos desafios e projetos que possam me ajudar a expandir meus conhecimentos e habilidades em programação. Se você está procurando por um desenvolvedor com paixão por tecnologia e programação, não hesite em entrar em contato comigo.
 
