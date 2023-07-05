@@ -2,11 +2,11 @@
 
 🤓 Olá, meu nome é Kauan Rodrigues, sou estudante de Sistemas de Informação EAD com grande interesse em tecnologia e programação. Estou sempre em busca de novas oportunidades para aprender e desenvolver minhas habilidades.
 
-Atualmente, estou me dedicando exclusivamente ao estudo de Engenharia de Dados por meio de cursos extracurriculares na Alura e na Stack Academy. Minha disciplina e habilidades de gerenciamento de tempo me permitem manter o foco em meus objetivos e metas.
+Atualmente, estou me dedicando exclusivamente ao estudo das tecnologias Angular e PHP por meio de cursos extracurriculares na Alura e os cursos da Loiane Groner.
 
-Tenho experiência na área de desenvolvimento de sites e estou interessado em seguir uma carreira na área de dados, especificamente engenharia de dados. Meu desejo é desenvolver soluções criativas e inovadoras que possam ajudar as empresas a atingir seus objetivos de negócios.
+Tenho experiência na área de desenvolvimento e estou interessado em seguir essa carreira de Dev Web Full-Stack, apesar de hoje, eu ainda estar nos meus primeiros passos com a área de back-end.
 
-Estou sempre em busca de novos desafios e projetos que possam me ajudar a expandir meus conhecimentos e habilidades em programação. Se você está procurando por um desenvolvedor com paixão por tecnologia e programação, não hesite em entrar em contato comigo.
+Estou sempre em busca de novos desafios e projetos que possam me ajudar a expandir meus conhecimentos e habilidades em programação. Se você está procurando por um dev com paixão por tecnologia e programação, manda mensagem! Vamos trocar uma ideia, quem sabe a gente até não faz um projetinho juntos.
 
 Meu perfil do GitHub apresenta meus projetos pessoais e trabalhos acadêmicos. Fique à vontade para navegar e deixar suas impressões. Vamos nos conectar e colaborar em projetos incríveis!
 
