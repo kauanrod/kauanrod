@@ -9,7 +9,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working with at Americanas with the Americanas Delivery's Development team.
-- 🌱 I’m currently learning Java and Spring Boot for back-end and improving my knowledge in front with Angular. 
+- 🌱 I’m currently learning Java and C# for back-end and improving my knowledge in front with Angular. 
 - 💼 I'm open to seek for new projects.
 
 ---
