@@ -10,6 +10,8 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 - 🌱 I’m currently learning Java and C# for back-end and improving my knowledge in front with Angular and TS. 
 - 💼 I'm open to seek for new projects.
 
+---
+
 ### 💻 Languages, Frameworks, Tools
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,8 +23,6 @@ Here on my Github Profile you'll see some of my personal projects but also, some
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
----
 
 ### 📈 GitHub Stats
 
