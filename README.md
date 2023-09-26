@@ -6,8 +6,8 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at Americanas with the Americanas Delivery's Development team.
-- 🌱 I’m currently learning Java and C# for back-end and improving my knowledge in front with Angular and TS. 
+- 🔭 I’m currently working with at Americanas with the Quality Automação's Development team.
+- 🌱 I’m currently learning Java and Kotlin for back-end and improving my knowledge in front with Angular and TS. 
 - 💼 I'm open to seek for new projects.
 
 ---
@@ -16,12 +16,13 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 ### 📈 GitHub Stats
@@ -38,5 +39,4 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 <div align="center">
   <a href="https://www.linkedin.com/in/kauanrod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kauanrod@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  
 </div>
