@@ -6,8 +6,8 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at Americanas with the Quality Automação's Development team.
-- 🌱 I’m currently learning Java and Kotlin for back-end and improving my knowledge in front with Angular and TS. 
+- 🔭 I’m currently working at Quality Automação's Development team.
+- 🌱 I’m currently learning Kotlin for back-end and focusing only on it and backend. 
 - 💼 I'm open to seek for new projects.
 
 ---
