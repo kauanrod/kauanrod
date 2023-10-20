@@ -14,6 +14,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 
 ### 💻 Languages, Frameworks, Tools
 <div align="center">
+  <!--
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,13 +24,17 @@ Here on my Github Profile you'll see some of my personal projects but also, some
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,angular,kotlin,spring,postgres" />
+  </a>
 </div>
 
 ### 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/kauanrod">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula&hide=python"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula&hide=html,css,python"/>
 </div>
 
 ---
