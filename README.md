@@ -21,11 +21,11 @@ Here on my Github Profile you'll see some of my personal projects but also, some
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,angular,kotlin,spring,postgres" alt="TypeScript, Angular, Kotlin, Spring, PostgreSQL" />
   </a>
-</div>
+</div> -->
 
 ### 📈 GitHub Stats
 
