@@ -32,7 +32,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 
 <div align="center">
   <a href="https://github.com/kauanrod">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ---
