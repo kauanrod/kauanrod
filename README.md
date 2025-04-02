@@ -7,7 +7,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ### ⚡️ Uma rápida introdução
 
 - 🔭 Atualmente estou atuando como Dev Jr na empresa WebPosto.
-- 🌱 Estou focado em aprender mais sobre Java e Infra para o back-end para que eu consiga me tornar um desenvolver full-stack cada vez melhor.
+- 🌱 Estou focado em me tornar um desenvolvedor full-stack altamente capacitado. Para isso, tenho direcionado meus estudos para React no Front-end e Java no Back-end, alinhando meus interesses pessoais com as demandas do mercado de trabalho.
 - 🎒 Me formo no primeiro semestre de 2026 no curso bacharelado de Sistemas de Informação.
 - 💼 Já atuei como desenvolvedor na Americanas e adquiri experiência em Angular, PHP, Laravel, MySQL, Docker, Jenkins. Atualmente trabalho com Java e Kotlin com Spring e tem sido o meu foco de estudos.
 - 🏢 Estou aberto à novos projetos e oportunidades. Segue meu <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a> e meu e-mail é kauanrod@hotmail.com
@@ -18,7 +18,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working as a Junior Developer at WebPosto.
-- 🌱 I’m focused on learning more about Java and Infrastructure for back-end development so that I can become a better full-stack developer.
+- 🌱 I'm focused on becoming a highly skilled full-stack developer. To achieve this, I have been dedicating my studies to React for the Front-end and Java for the Back-end, aligning my personal interests with market demands.
 - 🎒 I'll graduate in the first semester of 2026 with a bachelor's degree in Information Systems (equivalent to Computer Science).
 - 💼 I have worked as a developer at Americanas, where I gained experience with Angular, PHP, Laravel, MySQL, Docker, and Jenkins. Currently, I work with Java and Kotlin using Spring, and it has been my focus of study.
 - 🏢 I’m open to new projects and opportunities. Here’s my <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a>, and my email is kauanrod@hotmail.com.
