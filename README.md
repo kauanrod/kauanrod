@@ -9,7 +9,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 - 🔭 Atualmente estou atuando como Dev Jr na empresa WebPosto.
 - 🌱 Estou focado em aprender mais sobre Java e Infra para o back-end para que eu consiga me tornar um desenvolver full-stack cada vez melhor.
 - 🎒 Me formo no primeiro semestre de 2026 no curso bacharelado de Sistemas de Informação.
-- 💼 Já atuei como desenvolvedor na Americanas e adquiri experiência em Angular, PHP, Laravel, MySQL, Docker, Jenkins. Atualmente trabalho com Java e Kotlin com Spring.
+- 💼 Já atuei como desenvolvedor na Americanas e adquiri experiência em Angular, PHP, Laravel, MySQL, Docker, Jenkins. Atualmente trabalho com Java e Kotlin com Spring e tem sido o meu foco de estudos.
 - 🏢 Estou aberto à novos projetos e oportunidades. Segue meu <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a> e meu e-mail é kauanrod@hotmail.com
 
 
@@ -20,7 +20,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 - 🔭 I’m currently working as a Junior Developer at WebPosto.
 - 🌱 I’m focused on learning more about Java and Infrastructure for back-end development so that I can become a better full-stack developer.
 - 🎒 I'll graduate in the first semester of 2026 with a bachelor's degree in Information Systems (equivalent to Computer Science).
-- 💼 I have worked as a developer at Americanas, where I gained experience with Angular, PHP, Laravel, MySQL, Docker, and Jenkins. Currently, I work with Java and Kotlin using Spring.
+- 💼 I have worked as a developer at Americanas, where I gained experience with Angular, PHP, Laravel, MySQL, Docker, and Jenkins. Currently, I work with Java and Kotlin using Spring, and it has been my focus of study.
 - 🏢 I’m open to new projects and opportunities. Here’s my <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a>, and my email is kauanrod@hotmail.com.
 
 ---
