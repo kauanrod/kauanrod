@@ -18,7 +18,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working as a Junior Developer at WebPosto.
-- 🌱 I'm focused on becoming a highly skilled full-stack developer. To achieve this, I have been dedicating my studies to React for the Front-end and Java for the Back-end, aligning my personal interests with market demands.
+- 🌱 I'm focused on becoming a highly skilled full-stack developer. To achieve this, I have been dedicating my studies to React/Angular for the Front-end and Java for the Back-end, aligning my personal interests with market demands.
 - 🎒 I'll graduate in the first semester of 2026 with a bachelor's degree in Information Systems (equivalent to Computer Science).
 - 💼 I have worked as a developer at Americanas, where I gained experience with Angular, PHP, Laravel, MySQL, Docker, and Jenkins. Currently, I work with Java and Kotlin using Spring, and it has been my focus of study.
 - 🏢 I’m open to new projects and opportunities. Here’s my <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a>, and my email is kauanrod@hotmail.com.
