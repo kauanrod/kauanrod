@@ -7,7 +7,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ### ⚡️ Uma rápida introdução
 
 - 🔭 Atualmente estou atuando como Dev Jr na empresa WebPosto.
-- 🌱 Estou focado em me tornar um desenvolvedor full-stack altamente capacitado. Para isso, tenho direcionado meus estudos para React no Front-end e Java no Back-end, alinhando meus interesses pessoais com as demandas do mercado de trabalho.
+- 🌱 Estou focado em me tornar um desenvolvedor full-stack altamente capacitado. Para isso, tenho direcionado meus estudos para React/Angular no Front-end e Java no Back-end, alinhando meus interesses pessoais com as demandas do mercado de trabalho.
 - 🎒 Me formo no primeiro semestre de 2026 no curso bacharelado de Sistemas de Informação.
 - 💼 Já atuei como desenvolvedor na Americanas e adquiri experiência em Angular, PHP, Laravel, MySQL, Docker, Jenkins. Atualmente trabalho com Java e Kotlin com Spring e tem sido o meu foco de estudos.
 - 🏢 Estou aberto à novos projetos e oportunidades. Segue meu <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a> e meu e-mail é kauanrod@hotmail.com
