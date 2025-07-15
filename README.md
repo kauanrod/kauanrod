@@ -4,7 +4,7 @@
 <br>
 Here on my Github Profile you'll see some of my personal projects but also, some academics too. -->
 ## EN-US
-### ⚡️ A quick introduction
+### ⚡️ A quick introduction | Uma breve introdução
 
 I'm a Frontend and Full Stack Developer from Brazil with experience in Angular, React, Spring (Kotlin/Java), and Laravel.  
 Currently working as a Junior Developer at WebPosto, building solutions focused on financial systems, APIs, and integration.
@@ -15,7 +15,6 @@ Currently working as a Junior Developer at WebPosto, building solutions focused 
 - 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kauanrod/) or email me at kauanrod@hotmail.com
 
 ## PT-BR
-### ⚡️ Uma rápida introdução
 
 Desenvolvedor Frontend e Full Stack do Espírito Santo 🇧🇷 com experiência em Angular, React, Spring (Kotlin/Java) e Laravel.  
 Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de sistemas financeiros, APIs e integrações.
