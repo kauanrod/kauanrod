@@ -64,6 +64,8 @@ Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de 
   </a>
 </div> -->
 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
