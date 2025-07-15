@@ -6,28 +6,32 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ## EN-US
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working as a Junior Developer at WebPosto.
-- 🌱 I'm focused on becoming a highly skilled full-stack developer. To achieve this, I have been dedicating my studies to React/Angular for the Front-end and Java for the Back-end, aligning my personal interests with market demands.
-- 🎒 I'll graduate in the first semester of 2026 with a bachelor's degree in Information Systems (equivalent to Computer Science).
-- 💼 I have worked as a developer at Americanas, where I gained experience with Angular, PHP, Laravel, MySQL, Docker, and Jenkins. Currently, I work with Java and Kotlin using Spring, and it has been my focus of study.
-- 🏢 I’m open to new projects and opportunities. Here’s my <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a>, and my email is kauanrod@hotmail.com.
+I'm a Frontend and Full Stack Developer from Brazil with experience in Angular, React, Spring (Kotlin/Java), and Laravel.  
+Currently working as a Junior Developer at WebPosto, building solutions focused on financial systems, APIs, and integration.
+
+- 🔭 Focused on creating modern and scalable web interfaces  
+- 🌱 Passionate about frontend development and UI/UX best practices  
+- 🎓 Information Systems student, graduating in 2026  
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kauanrod/) or email me at kauanrod@hotmail.com
 
 ## PT-BR
 ### ⚡️ Uma rápida introdução
 
-- 🔭 Atualmente estou atuando como Dev Jr na empresa WebPosto.
-- 🌱 Estou focado em me tornar um desenvolvedor full-stack altamente capacitado. Para isso, tenho direcionado meus estudos para React/Angular no Front-end e Java no Back-end, alinhando meus interesses pessoais com as demandas do mercado de trabalho.
-- 🎒 Me formo no primeiro semestre de 2026 no curso bacharelado de Sistemas de Informação.
-- 💼 Já atuei como desenvolvedor na Americanas e adquiri experiência em Angular, PHP, Laravel, MySQL, Docker, Jenkins. Atualmente trabalho com Java e Kotlin com Spring e tem sido o meu foco de estudos.
-- 🏢 Estou aberto à novos projetos e oportunidades. Segue meu <a href="https://www.linkedin.com/in/kauanrod/">LinkedIn</a> e meu e-mail é kauanrod@hotmail.com
+Desenvolvedor Frontend e Full Stack do Espírito Santo 🇧🇷 com experiência em Angular, React, Spring (Kotlin/Java) e Laravel.  
+Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de sistemas financeiros, APIs e integrações.
+
+- 🔭 Foco em desenvolvimento de interfaces modernas e escaláveis  
+- 🌱 Apaixonado por frontend, UI/UX e boas práticas de código  
+- 🎓 Estudante de Sistemas de Informação, com formação prevista para 2026  
+- 📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/kauanrod/) ou pelo e-mail: kauanrod@hotmail.com
 
 ---
 
 ### 💻 Languages, Frameworks, Tools
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
