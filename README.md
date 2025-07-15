@@ -16,7 +16,7 @@ Currently working as a Junior Developer at WebPosto, building solutions focused 
 
 ## PT-BR
 
-Desenvolvedor Frontend e Full Stack do Espírito Santo 🇧🇷 com experiência em Angular, React, Spring (Kotlin/Java) e Laravel.  
+Desenvolvedor Frontend e Full Stack com experiência em Angular, React, Spring (Kotlin/Java) e Laravel.  
 Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de sistemas financeiros, APIs e integrações.
 
 - 🔭 Foco em desenvolvimento de interfaces modernas e escaláveis  
