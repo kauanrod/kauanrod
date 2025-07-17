@@ -69,7 +69,7 @@ Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de 
 
 <div align="center">
   <a href="https://github.com/kauanrod">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula&hide=python,html,css,blade"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrod&layout=compact&langs_count=16&theme=dracula&hide=python,html,css,scss,blade"/>
 </div>
 
 ---
