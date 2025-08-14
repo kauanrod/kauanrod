@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!+%F0%9F%96%96)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+everyone!+%F0%9F%96%96)](https://git.io/typing-svg) -->
 
 <!-- I'm Kauan Rodrigues. I'm currently working as a full-stack software development intern during the day. At night, I switch to self-taught student mode - developing new projects as i create new projects and learn more and more!
 <br>
