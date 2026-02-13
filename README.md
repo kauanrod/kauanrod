@@ -6,24 +6,26 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ## EN-US
 ### ⚡️ A quick introduction
 
-I'm a Frontend and Full Stack Developer from Brazil with experience in Angular, React, Spring (Kotlin/Java), and Laravel.  
-Currently working as a Junior Developer at WebPosto, building solutions focused on financial systems, APIs, and integration.
+## Backend Software Engineer | Java/Kotlin & Spring Boot | NodeJS & Express
 
-- 🔭 Focused on creating modern and scalable web interfaces  
-- 🌱 Passionate about frontend development and UI/UX best practices  
-- 🎓 Information Systems student, graduating in 2026  
-- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kauanrod/) or email me at kauanrod@hotmail.com
+Backend developer focused on building secure and scalable financial systems using Java, Kotlin and Spring Boot.
+Currently working as a Junior Developer at WebPosto, developing RESTful APIs, integrating banking systems using OAuth 2.0 and JWT, and optimizing PostgreSQL databases.
+
+- 🔐 Focused on backend architecture, security and API design
+- 🏦 Experience with financial systems and banking integrations
+- 🧪 Currently improving expertise in automated testing and clean architecture
+- 🌎 Open to international remote opportunities
+
 
 ## PT-BR
 ### ⚡️ Uma breve introdução
 
-Desenvolvedor Frontend e Full Stack com experiência em Angular, React, Spring (Kotlin/Java) e Laravel.  
-Atualmente trabalho como Dev Júnior na WebPosto, atuando no desenvolvimento de sistemas financeiros, APIs e integrações.
-
-- 🔭 Foco em desenvolvimento de interfaces modernas e escaláveis  
-- 🌱 Apaixonado por frontend, UI/UX e boas práticas de código  
-- 🎓 Estudante de Sistemas de Informação, com formação prevista para 2026  
-- 📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/kauanrod/) ou pelo e-mail: kauanrod@hotmail.com
+Desenvolvedor backend focado na construção de sistemas financeiros seguros e escaláveis utilizando Java, Kotlin e Spring Boot.
+Atualmente atuo como Desenvolvedor Júnior na WebPosto, desenvolvendo APIs REST, realizando integrações com sistemas bancários utilizando OAuth 2.0 e JWT, e otimizando bancos de dados PostgreSQL.
+- 🔐 Foco em arquitetura backend, segurança e design de APIs
+- 🏦 Experiência com sistemas financeiros e integrações bancárias
+- 🧪 Aperfeiçoando conhecimentos em testes automatizados e Clean Architecture
+- 🌎 Aberto a oportunidades internacionais e trabalho remoto
 
 ---
 
