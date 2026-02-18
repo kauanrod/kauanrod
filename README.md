@@ -6,7 +6,7 @@ Here on my Github Profile you'll see some of my personal projects but also, some
 ## EN-US
 ### ⚡️ A quick introduction
 
-## Backend Software Engineer | Java/Kotlin & Spring Boot | NodeJS & Express
+## Backend Software Engineer | Java/Kotlin & Spring Boot
 
 Backend developer focused on building secure and scalable financial systems using Java, Kotlin and Spring Boot.
 Currently working as a Junior Developer at WebPosto, developing RESTful APIs, integrating banking systems using OAuth 2.0 and JWT, and optimizing PostgreSQL databases.
